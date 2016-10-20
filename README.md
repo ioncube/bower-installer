@@ -225,7 +225,7 @@ You can specify a folder and get all files inside it preserving its folder struc
 ```
 
 ##Change log
- - 1.3.0 - Added support for copying subdirectories from a dependent to the target. The images directory below is an example. 
+ - 1.3.0 - Added support for copying directory contents of a dependent to a target directory. The images directory below is an example. 
  ```
  "sources" : {
   "jquery-ui" : [
